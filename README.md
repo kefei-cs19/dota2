@@ -10,4 +10,4 @@ Required packages
 Usage
 ------------------
 
-`python3 scripts.download_matches -n 1000 -o matches.txt`
+`python3 -m scripts.download_matches -n 1000 -o matches.txt`
