@@ -3,3 +3,4 @@ api_key.py
 *.pyc
 *__pycache__*
 .idea/*
+match_log.txt
